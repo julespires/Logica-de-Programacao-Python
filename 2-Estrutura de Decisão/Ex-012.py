@@ -1,6 +1,5 @@
 '''
-Faça um programa que receba o código correspondente ao cargo de um funcionário e seu salário atual
-e mostre o cargo, o valor do aumento e seu novo salário. Os cargos estão na tabela a seguir.
+Faça um programa que receba o código correspondente ao cargo de um funcionário e seu salário atual e mostre o cargo, o valor do aumento e seu novo salário. Os cargos estão na tabela a seguir.
 Autor:Jules do Nascimento Pires
 Ex:012
 Data:24/08/2025

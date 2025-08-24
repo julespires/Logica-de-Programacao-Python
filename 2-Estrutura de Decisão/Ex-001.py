@@ -1,6 +1,5 @@
 '''
-A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas
-obedece aos pesos a seguir:
+A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas obedece aos pesos a seguir:
 NOTA                                           PESO
 Trabalho de laboratório                         2
 Avaliação semestral                             3
