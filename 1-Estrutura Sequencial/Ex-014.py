@@ -6,8 +6,9 @@ Autor:Jules do Nascimento Pires
 Ex:0014
 '''
 
-# Bibliotecas utilizadas
+# Biblioteca do sistema
 import os
+# Biblioteca data
 from datetime import date
 
 # Recupera o ano atual do sistema
