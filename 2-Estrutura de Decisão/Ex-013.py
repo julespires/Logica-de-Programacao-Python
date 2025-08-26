@@ -25,11 +25,16 @@ Até R$ 700,00 (inclusive)                                     Mal remunerado
 Maiores que R$ 700,00                                         Bem remunerado
 '''
 
+# Biblioteca 
+import os
+
+os.system('cls')
+
 print("1. Imposto")
 print("2. Novo salário")
 print("3. Classificação")
 
-op = int(input("Digite a opção desejada"))
+op = int(input("Digite a opção desejada:"))
 
 if op == 1:
 
@@ -55,3 +60,29 @@ if op == 2:
 
         novoSal = salario + 25
         print("Seu novo salário será de: R${}".format(novoSal))
+    
+    elif salario > 750 and salario <= 1500:
+
+        novoSal = salario + 50
+        print("Seu novo salário será de: R${}".format(novoSal))
+    
+    elif salario >= 450 and salario <= 750:
+        
+        novoSal = salario + 75
+        print("Seu novo salário será de: R${}".format(novoSal))
+    
+    elif salario < 450:
+
+        novoSal = salario + 100
+        print("Seu novo salário será de: R${}".format(novoSal))
+
+if op == 3:
+
+        salario = float(input("Informe o salário do funcionário:"))
+    
+if salario <= 700:
+    
+        print("Funcionário mal remunerado!")
+
+else:
+        print("Funcinário bem remunerado!")
