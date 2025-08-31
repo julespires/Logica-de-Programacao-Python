@@ -85,4 +85,4 @@ if salario <= 700:
         print("Funcionário mal remunerado!")
 
 else:
-        print("Funcinário bem remunerado!")NTT
+        print("Funcinário bem remunerado!")

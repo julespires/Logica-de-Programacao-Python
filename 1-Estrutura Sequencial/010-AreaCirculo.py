@@ -1,5 +1,5 @@
 '''
-Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = PI * R2.
+Programa que calcule e mostre a área de um círculo. Sabe-se que: Área = PI * R2.
 Autor:Jules do Nascimento Pires
 Ex:010
 Data:22/08/2025

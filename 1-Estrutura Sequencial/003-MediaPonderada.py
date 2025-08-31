@@ -1,5 +1,5 @@
 '''
-Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada.
+Programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada.
 Autor:Jules do Nascimento Pires
 Ex:003
 Data:20/08/2025

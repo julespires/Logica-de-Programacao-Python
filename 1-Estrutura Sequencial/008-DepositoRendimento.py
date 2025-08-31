@@ -1,5 +1,5 @@
 '''
-Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento.
+Programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento.
 Autor:Jules do Nascimento Pires
 Ex:006
 Data:21/08/2025

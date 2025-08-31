@@ -1,5 +1,5 @@
 '''
-Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura)/2.
+Programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura)/2.
 Autor:Jules do Nascimento Pires
 Ex:007
 Data:21/08/2025

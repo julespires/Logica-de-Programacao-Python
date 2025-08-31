@@ -1,5 +1,5 @@
 '''
-Faça um programa que receba três notas, calcule e mostre a média aritmética.
+Programa que receba três notas, calcule e mostre a média aritmética.
 Autor:Jules do Nascimento Pires
 Ex:002
 Data:20/08/2025

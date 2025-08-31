@@ -1,5 +1,5 @@
 '''
-Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
+Programa que receba quatro números inteiros, calcule e mostre a soma desses números.
 Autor:Jules do Nascimento Pires
 Ex:001
 Data:20/08/2025

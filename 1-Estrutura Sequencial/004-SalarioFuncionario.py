@@ -1,5 +1,5 @@
 '''
-Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%.
+Programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%.
 Autor:Jules do Nascimento Pires
 Ex:004
 Data:20/08/2025

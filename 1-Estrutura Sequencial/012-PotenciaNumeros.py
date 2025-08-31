@@ -1,5 +1,5 @@
 '''
-Faça um programa que receba dois números maiores que zero, calcule e mostre um elevado ao outro.
+Programa que receba dois números maiores que zero, calcule e mostre um elevado ao outro.
 Autor:Jules do Nascimento Pires
 Ex:012
 Data:23/08/2025
